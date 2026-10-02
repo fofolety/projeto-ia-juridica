@@ -1,5 +1,7 @@
 # Caso Fictício — Vício de Produto
 
+Url pública do repositório: https://github.com/fofolety/projeto-ia-juridica
+
 ## 1. Finalidade
 
 Este repositório demonstra um fluxo de análise jurídica assistida por inteligência artificial, utilizando um caso jurídico inteiramente fictício.
