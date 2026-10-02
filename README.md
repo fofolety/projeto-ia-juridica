@@ -1,5 +1,6 @@
 # Caso Fictício — Vício de Produto
 
+## Repositório 
 Url pública do repositório: https://github.com/fofolety/projeto-ia-juridica
 
 ## 1. Finalidade
